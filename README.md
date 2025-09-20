@@ -1,6 +1,6 @@
 # devops-netology
--first note<br>
-В .gitignore терраформа указаны следующие ограничения:<br><br>
+-first note<br><br>
+В .gitignore терраформа указаны следующие ограничения:<br>
 – .terraform/ - игнорируется папка .terraform и всё её содержимое.<br>
 – *.tfstate, *.tfstate.* — игнорируются все файлы с расширением .tfstate и любые файлы, имя которых начинается с .tfstate<br>
 – crash.log, crash.*.log — игнорируется файл crash.log и все файлы формата crash.что-угодно.log<br>
