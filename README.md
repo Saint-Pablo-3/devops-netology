@@ -1,4 +1,5 @@
 # devops-netology
+<<<<<<< HEAD
 -first note<br><br>
 В .gitignore терраформа указаны следующие ограничения:<br>
 – .terraform/ - игнорируется папка .terraform и всё её содержимое.<br>
@@ -10,3 +11,9 @@
 – .terraform.tfstate.lock.info — игнорируется файл блокировки terraform.tfstate.lock.info<br>
 – .terraformrc, terraform.rc — игнорируются файлы конфигурации CLI с такими именами<br>
 
+=======
+-first note
+.gitignore будет игнорировать файлы Terraform
+- new fix branch line
+-new line PyCharm added
+>>>>>>> fix
